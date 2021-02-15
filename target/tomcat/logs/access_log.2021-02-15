@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:48 +0100] "GET /parions-propre?_ijt=b80fhg6t5rn5q9uno8g2n0e3hq HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:50 +0100] "GET /parions-propre/?_ijt=b80fhg6t5rn5q9uno8g2n0e3hq HTTP/1.1" 200 10058 http-bio-8080-exec-2 1689
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:51 +0100] "GET /parions-propre/public/images/web.png HTTP/1.1" 200 10058 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:51 +0100] "GET /parions-propre/public/images/android.png HTTP/1.1" 200 10058 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:51 +0100] "GET /parions-propre/public/images/apple.png HTTP/1.1" 200 10058 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:51 +0100] "GET /parions-propre/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 10058 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:51 +0100] "GET /parions-propre/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff HTTP/1.1" 200 10058 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:21:52 +0100] "GET /parions-propre/public/vendor/fontawesome-free/webfonts/fa-solid-900.ttf HTTP/1.1" 200 10058 http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:26 +0100] "GET /parions-propre/?_ijt=b80fhg6t5rn5q9uno8g2n0e3hq HTTP/1.1" 200 10013 http-bio-8080-exec-2 307
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:26 +0100] "GET /public/images/android.png HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:26 +0100] "GET /public/images/web.png HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:26 +0100] "GET /public/images/apple.png HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:27 +0100] "GET /parions-propre/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 10013 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:27 +0100] "GET /parions-propre/public/vendor/fontawesome-free/webfonts/fa-solid-900.woff HTTP/1.1" 200 10013 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [15/Feb/2021:21:27:27 +0100] "GET /parions-propre/public/vendor/fontawesome-free/webfonts/fa-solid-900.ttf HTTP/1.1" 200 10013 http-bio-8080-exec-9 3

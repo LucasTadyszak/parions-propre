@@ -1,0 +1,68 @@
+/** Eléments HTML **/
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-size: 0.8em;
+}
+
+
+.btn-success {
+    color: #fff;
+    background-color: #219953;
+    border-color: #219953;
+    width: 100%;
+    /* font-weight: 600 !important; */
+    padding: 7px 10px;
+    font-size: 15px !important;
+    border-radius: 0px;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+
+}
+.btn-success:hover {
+    color: #fff !important;
+    background-color: #2FC0AE !important;
+    border-color: #2FC0AE !important;
+}
+form.login label, form.login a
+{
+    font-size: 12px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+form.login a
+{
+    transition: color 0.5s ease;
+}
+
+form.login a:hover
+{
+    color: #2ecc71;
+}
+
+
+/*  Scroll-bar  */ 
+.scroll-to-top {
+  z-index: 999;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  display: none;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  background: rgba(52, 58, 64, 0.5);
+  line-height: 45px;
+}
+
+.scroll-to-top:focus, .scroll-to-top:hover {
+  background: #343a40;
+}
+
+.scroll-to-top i {
+  font-weight: 800;
+}
+
