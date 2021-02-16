@@ -16,7 +16,7 @@
                 <h4 class="my-0 font-weight-normal">Site Web</h4>
             </div>
             <div class="card-body">
-                <img class="img-web" src="/public/images/web.png" alt="site internet">
+                <img class="img-web" src="/parions-propre/public/images/web.png" alt="site internet">
                 <ul class="list-unstyled mt-3 mb-5">
                     <li class="label-title"><span class="number-title">129</span> pays</li>
                     <li class="label-title"><span class="number-title">223</span> championnats</li>
@@ -30,7 +30,7 @@
                 <h4 class="my-0 font-weight-normal">Android</h4>
             </div>
             <div class="card-body">
-                <img class="img-android" src="/public/images/android.png" alt="site internet">
+                <img class="img-android" src="/parions-propre/public/images/android.png" alt="site internet">
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>20 users included</li>
                     <li>10 GB of storage</li>
@@ -45,7 +45,7 @@
                 <h4 class="my-0 font-weight-normal">Apple</h4>
             </div>
             <div class="card-body">
-                <img class="img-apple" src="/public/images/apple.png" alt="site internet">
+                <img class="img-apple" src="/parions-propre/public/images/apple.png" alt="site internet">
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>30 users included</li>
                     <li>15 GB of storage</li>
