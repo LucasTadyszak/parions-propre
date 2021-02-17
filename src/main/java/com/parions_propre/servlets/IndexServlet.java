@@ -1,4 +1,4 @@
-package com.parions_propre;
+package com.parions_propre.servlets;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
