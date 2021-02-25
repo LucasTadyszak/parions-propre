@@ -1,9 +1,13 @@
 # Site d'analyse de matchs sportifs
 
-![GitHub Master checks state](https://img.shields.io/github/checks-status/LucasTadyszak/parions-propre/master?label=Master%20checks%20state)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasTadyszak/parions-propre)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LucasTadyszak/parions-propre/master?logoColor=blue)
-
+<p>
+    <img src="https://img.shields.io/github/checks-status/LucasTadyszak/parions-propre/master?label=Master%20checks%20state" />
+    <img src="https://img.shields.io/github/languages/top/LucasTadyszak/parions-propre" />
+    <img src="https://img.shields.io/github/last-commit/LucasTadyszak/parions-propre/master?logoColor=blue" />
+	<img src="https://aoindustries.com/ao-badges/project-alpha.svg" />
+    <img src="https://aoindustries.com/ao-badges/packaging-developmental.svg" alt="packaging: Developmental" />
+    <img src="https://aoindustries.com/ao-badges/java-11.svg" alt="java: &gt;= 11.0.2" />
+</p>
 **Introduction du projet**
 
 Ce dépôt correspond au projet Parions Propre.
