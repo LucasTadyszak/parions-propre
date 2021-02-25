@@ -1,0 +1,13 @@
+com/parions_propre/forms/InscriptionForm.class
+com/parions_propre/beans/Client.class
+com/parions_propre/servlets/SuppressionClient.class
+com/parions_propre/dao/DAOException.class
+com/parions_propre/dao/DAOFactory.class
+com/parions_propre/forms/FormValidationException.class
+com/parions_propre/dao/DAOConfigurationException.class
+com/parions_propre/servlets/Index.class
+com/parions_propre/config/InitialisationDaoFactory.class
+com/parions_propre/dao/ClientDaoImpl.class
+com/parions_propre/servlets/CreationClient.class
+com/parions_propre/dao/DAOUtilitaire.class
+com/parions_propre/dao/ClientDao.class

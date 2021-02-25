@@ -1,5 +1,5 @@
-<%@ include file="templates/header.jsp" %>
-<%@ include file="templates/menu.jsp" %>
+<%@ include file="templates/headerHTML.jsp" %>
+<%@ include file="connexion.jsp" %>
 
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h1 class="display-4 section-title">L'appli indispensable pour les parieurs</h1>
@@ -58,4 +58,4 @@
     </div>
 </div>
 
-<%@ include file="templates/footer.jsp" %>
+<%@ include file="templates/footerHTML.jsp" %>

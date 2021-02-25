@@ -19,6 +19,14 @@ li {
     /* à adapter */
 }
 
+form .erreur {
+    color: #900;
+}
+
+form .succes {
+    color: #090;
+}
+
 .spinner-wrapper {
 	position: fixed;
 	z-index: 999999;
